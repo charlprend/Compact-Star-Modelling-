@@ -21,8 +21,11 @@ and document the development of the project.
 
 | File | Description |
 | --- | --- |
-| `Notebooks/sagert_eos_physics.ipynb` | Mathematical derivations and physical interpretation of the equations presented in Sagert et al. |
-| `Notebooks/sagert_eos_code.ipynb` | Python implementation, numerical stellar structure calculations and verification checks. |
+| `Notebooks/white_dwarfs/sagert_white_dwarf_physics.ipynb` | Mathematical derivations and physical interpretation of the white dwarf equations presented in Sagert et al. |
+| `Notebooks/white_dwarfs/sagert_white_dwarf_code.ipynb` | Python implementations, numerical stellar structure calculations and verification checks. |
+| `Notebooks/neutron_stars/sagert_neutron_star_physics.ipynb` | Mathematical derivations and physical interpretation of neutron star matter and equations of state. |
+| `Notebooks/neutron_stars/sagert_neutron_star_code.ipynb` | Python implementation of neutron star equations of state and stellar structure models. |
+| `Notebooks/figures/` | Figures produced from the numerical calculations. |
 | `eos_conceptual_overview.ipynb` | Reference notebook explaining the physical meaning of the equations. |
 | `Glossary.ipynb` | Definitions of mathematical symbols, physical quantities and terminology. |
 
@@ -31,8 +34,13 @@ and document the development of the project.
 - Derived and implemented electron degeneracy pressure in the nonrelativistic and relativistic regimes.
 - Explored polytropic equations of state and the Lane Emden equation.
 - Implemented numerical integration of the Newtonian white dwarf structure equations.
-- Calculated and compared white dwarf mass and radius relations.
+- Calculated and compared white dwarf mass and radius relationships.
 - Worked through the derivation and numerical investigation of the Chandrasekhar mass.
+- Implemented the full electron equation of state, including numerical inversion from pressure to energy density.
+- Studied the general relativistic corrections to hydrostatic equilibrium and implemented the Tolman Oppenheimer Volkoff equation.
+- Investigated the effects of electron energy density and relativistic gravity on stellar structure.
+- Produced numerical results corresponding to Figures 1 through 7 of Sagert et al.
+- Explored radial oscillations, equilibrium sequences and the theoretical criteria for stellar stability.
 
 ## References and Further Reading
 
