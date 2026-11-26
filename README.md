@@ -39,7 +39,7 @@ and document the development of the project.
 - Implemented the full electron equation of state, including numerical inversion from pressure to energy density.
 - Studied the general relativistic corrections to hydrostatic equilibrium and implemented the Tolman Oppenheimer Volkoff equation.
 - Investigated the effects of electron energy density and relativistic gravity on stellar structure.
-- Produced numerical results corresponding to Figures 1 through 7 of Sagert et al.
+- Produced numerical results corresponding to Figures 1 through 8 of Sagert et al.
 - Explored radial oscillations, equilibrium sequences and the theoretical criteria for stellar stability.
 
 ## References and Further Reading
